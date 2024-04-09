@@ -32,10 +32,12 @@ The project is structured as follows:
 
 ### Usage
 To run the notebook:
-- Clone this repository to your local machine.
-- Ensure you have Jupyter Notebook installed along with the required libraries (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn).
-- Launch Jupyter Notebook and open the breast_cancer_prediction.ipynb file.
-- Follow the instructions within the notebook to execute each cell and observe the results.
+1. Clone this repository to your local machine.
+2. Ensure you have Jupyter Notebook installed along with the required libraries (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn).
+3. Launch Jupyter Notebook and open the breast_cancer_prediction.ipynb file.
+4. Follow the instructions within the notebook to execute each cell and observe the results.
 
 ### Results
-The final outcome of this project is a well-documented Jupyter Notebook demonstrating the entire process of building and evaluating machine learning models for breast cancer prediction. The notebook includes detailed explanations, visualizations, and interpretations of the analysis.
+The final outcome of this project is a well-documented Jupyter Notebook demonstrating the
+entire process of building and evaluating machine learning models for breast cancer prediction.
+The notebook includes detailed explanations, visualizations, and interpretations of the analysis.
